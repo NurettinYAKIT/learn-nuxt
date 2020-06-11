@@ -60,7 +60,7 @@ export default {
     }
   },
 
-  server:{
-    port:8000
-  }
+  // server:{
+  //   port:8000
+  // }
 }
