@@ -4,6 +4,7 @@
       <div class="navbar-links">
         <nuxt-link to="/">HOME</nuxt-link>
         <nuxt-link to="/videos">VIDEOS</nuxt-link>
+        <nuxt-link to="/sandbox">SANDBOX</nuxt-link>
       </div>
     </div>
     <div id="default-body">

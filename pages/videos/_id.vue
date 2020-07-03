@@ -11,15 +11,15 @@ export default {
       videos: [
         {
           id: 1,
-          name: "First video."
+          title: "First video."
         },
         {
           id: 2,
-          name: "Second video."
+          title: "Second video."
         },
         {
           id: 20,
-          name: "Latest video."
+          title: "Latest video."
         }
       ]
     };
